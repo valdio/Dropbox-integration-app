@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dropbox Integration</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Change this to your app key -->
+    <string name="APP_KEY">APP_KEY_HERE</string>
+
+    <!-- Strings related to login -->
+    <string name="sign_in">Sign in</string>
+    <string name="title_activity_login">Sign in</string>
+
+</resources>
